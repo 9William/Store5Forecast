@@ -4,7 +4,6 @@ Ini adalah project 1 saya untuk Machine Learning dimana saya melakukan prediksi 
 
 Dibawah ini ada beberapa google colab untuk melihat 10 model berdasarkan family yang memiliki sales paling tinggi.
 
---
 - EN
 
 This is my first Machine Learning project, where I predict family prices / sales on store5. 
