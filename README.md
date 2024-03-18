@@ -2,6 +2,8 @@
 
 Ini adalah project 1 saya untuk Machine Learning dimana saya melakukan prediksi harga family / penjualan pada store5
 
+Model yang digunakan untuk pembentukan Time Series : SARIMAX, Stacked LSTM dan Facebook Prohpet
+
 Dibawah ini ada beberapa google colab untuk melihat 10 model berdasarkan family yang memiliki sales paling tinggi.
 
 ---
@@ -9,6 +11,8 @@ Dibawah ini ada beberapa google colab untuk melihat 10 model berdasarkan family 
 - EN
 
 This is my first Machine Learning project, where I predict family prices / sales on store5. 
+
+Model that i have used for Time Series : SARIMAX, Stacked LSTM dan Facebook Prohpet
 
 Here are some Google Colab notebooks to see the top 10 models based on families with the highest sales.
 
